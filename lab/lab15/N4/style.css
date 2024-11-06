@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: blanchedalmond;
+    text-align: center;
+}   
+
+h1{
+
+    font-size: 18px;
+}
+p, input, button {
+    margin-top: 20px;
+}
+
+button{
+    height: 80px;
+    width: 150px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-box-shadow: -1px 7px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: -1px 7px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: -1px 7px 8px 5px rgba(34, 60, 80, 0.2);
+    cursor: pointer;
+}
+
